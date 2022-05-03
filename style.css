@@ -1,0 +1,16 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+.rec{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rec.bot {
+    color: brown;
+    text-align: right;
+}
